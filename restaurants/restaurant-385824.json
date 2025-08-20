@@ -1,0 +1,63 @@
+{
+  "id": "385824",
+  "name": "The Belgian Waffle Co.",
+  "location": "345 Mill St, New Bedford",
+  "rating": 4.7,
+  "cuisines": ["Waffle", "Desserts", "Ice Cream", "Beverages"],
+  "costForTwo": "$24",
+  "deliveryTime": "50 mins",
+  "isOpen": true,
+  "phone": "+1-555-0129",
+  "menu": [
+    {
+      "name": "Classic Belgian Waffle",
+      "price": 16,
+      "isVeg": true
+    },
+    {
+      "name": "Chocolate Waffle",
+      "price": 18,
+      "isVeg": true
+    },
+    {
+      "name": "Strawberry Waffle",
+      "price": 19,
+      "isVeg": true
+    },
+    {
+      "name": "Nutella Waffle",
+      "price": 20,
+      "isVeg": true
+    },
+    {
+      "name": "Ice Cream Waffle",
+      "price": 17,
+      "isVeg": true
+    },
+    {
+      "name": "Caramel Waffle",
+      "price": 15,
+      "isVeg": true
+    },
+    {
+      "name": "Banana Waffle",
+      "price": 14,
+      "isVeg": true
+    },
+    {
+      "name": "Mixed Berry Waffle",
+      "price": 12,
+      "isVeg": true
+    },
+    {
+      "name": "Maple Syrup Waffle",
+      "price": 13,
+      "isVeg": true
+    },
+    {
+      "name": "Vanilla Milkshake",
+      "price": 11,
+      "isVeg": true
+    }
+  ]
+}
