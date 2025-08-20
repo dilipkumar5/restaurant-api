@@ -1,0 +1,63 @@
+{
+  "id": "151515",
+  "name": "Gupta Bhojnalay",
+  "location": "456 Acushnet Ave, New Bedford",
+  "rating": 4.8,
+  "cuisines": ["Fast Food", "Indian", "Beverages"],
+  "costForTwo": "$16",
+  "deliveryTime": "41 mins",
+  "isOpen": true,
+  "phone": "+1-555-0124",
+  "menu": [
+    {
+      "name": "Chole Bhature",
+      "price": 12,
+      "isVeg": true
+    },
+    {
+      "name": "Rajma Chawal",
+      "price": 11,
+      "isVeg": true
+    },
+    {
+      "name": "Samosa",
+      "price": 10,
+      "isVeg": true
+    },
+    {
+      "name": "Pani Puri",
+      "price": 13,
+      "isVeg": true
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 15,
+      "isVeg": true
+    },
+    {
+      "name": "Idli Sambar",
+      "price": 14,
+      "isVeg": true
+    },
+    {
+      "name": "Vada Pav",
+      "price": 12,
+      "isVeg": true
+    },
+    {
+      "name": "Bhel Puri",
+      "price": 11,
+      "isVeg": true
+    },
+    {
+      "name": "Lassi",
+      "price": 16,
+      "isVeg": true
+    },
+    {
+      "name": "Kulfi",
+      "price": 18,
+      "isVeg": true
+    }
+  ]
+}
