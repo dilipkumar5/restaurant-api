@@ -1,0 +1,63 @@
+{
+  "id": "150591",
+  "name": "Satkar Restaurant",
+  "location": "234 Dartmouth St, New Bedford",
+  "rating": 4.4,
+  "cuisines": ["North Indian", "South Indian", "Indian", "Salads", "Desserts"],
+  "costForTwo": "$18",
+  "deliveryTime": "44 mins",
+  "isOpen": true,
+  "phone": "+1-555-0128",
+  "menu": [
+    {
+      "name": "Tandoori Roti",
+      "price": 11,
+      "isVeg": true
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 17,
+      "isVeg": false
+    },
+    {
+      "name": "Lamb Biryani",
+      "price": 20,
+      "isVeg": false
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 16,
+      "isVeg": true
+    },
+    {
+      "name": "Dal Tadka",
+      "price": 12,
+      "isVeg": true
+    },
+    {
+      "name": "Chicken Vindaloo",
+      "price": 19,
+      "isVeg": false
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 13,
+      "isVeg": true
+    },
+    {
+      "name": "Rasgulla",
+      "price": 14,
+      "isVeg": true
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 15,
+      "isVeg": true
+    },
+    {
+      "name": "Kheer",
+      "price": 18,
+      "isVeg": true
+    }
+  ]
+}
