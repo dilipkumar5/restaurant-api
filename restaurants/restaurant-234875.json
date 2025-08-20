@@ -1,0 +1,63 @@
+{
+  "id": "234875",
+  "name": "Adil Hotel",
+  "location": "800 Pleasant St, New Bedford",
+  "rating": 4.3,
+  "cuisines": ["North Indian", "Biryani", "Tandoor"],
+  "costForTwo": "$18",
+  "deliveryTime": "37 mins",
+  "isOpen": true,
+  "phone": "+1-555-0123",
+  "menu": [
+    {
+      "name": "Chicken Tandoori",
+      "price": 16,
+      "isVeg": false
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 14,
+      "isVeg": true
+    },
+    {
+      "name": "Egg Biryani",
+      "price": 12,
+      "isVeg": false
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 18,
+      "isVeg": false
+    },
+    {
+      "name": "Mutton Biryani",
+      "price": 20,
+      "isVeg": false
+    },
+    {
+      "name": "Dal Makhani",
+      "price": 13,
+      "isVeg": true
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 19,
+      "isVeg": false
+    },
+    {
+      "name": "Aloo Gobi",
+      "price": 11,
+      "isVeg": true
+    },
+    {
+      "name": "Naan",
+      "price": 10,
+      "isVeg": true
+    },
+    {
+      "name": "Chicken Korma",
+      "price": 17,
+      "isVeg": false
+    }
+  ]
+}
