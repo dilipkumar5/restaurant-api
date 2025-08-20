@@ -1,0 +1,63 @@
+{
+  "id": "658210",
+  "name": "The Fusion Lounge",
+  "location": "567 County St, New Bedford",
+  "rating": 4.2,
+  "cuisines": ["South Indian", "Chinese", "Beverages", "Fast Food", "Desserts"],
+  "costForTwo": "$20",
+  "deliveryTime": "45 mins",
+  "isOpen": true,
+  "phone": "+1-555-0127",
+  "menu": [
+    {
+      "name": "Dosa Platter",
+      "price": 16,
+      "isVeg": true
+    },
+    {
+      "name": "Uttapam",
+      "price": 14,
+      "isVeg": true
+    },
+    {
+      "name": "Medu Vada",
+      "price": 12,
+      "isVeg": true
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 13,
+      "isVeg": true
+    },
+    {
+      "name": "Rasam",
+      "price": 11,
+      "isVeg": true
+    },
+    {
+      "name": "Chicken 65",
+      "price": 18,
+      "isVeg": false
+    },
+    {
+      "name": "Mutton Pepper Fry",
+      "price": 20,
+      "isVeg": false
+    },
+    {
+      "name": "Prawn Masala",
+      "price": 19,
+      "isVeg": false
+    },
+    {
+      "name": "Filter Coffee",
+      "price": 10,
+      "isVeg": true
+    },
+    {
+      "name": "Payasam",
+      "price": 15,
+      "isVeg": true
+    }
+  ]
+}
