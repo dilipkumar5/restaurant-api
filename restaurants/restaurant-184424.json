@@ -1,0 +1,63 @@
+{
+  "id": "184424",
+  "name": "Sab Ghar Tak Foods",
+  "location": "789 Purchase St, New Bedford",
+  "rating": 4.1,
+  "cuisines": ["North Indian", "South Indian", "Chinese", "Beverages", "Fast Food", "Desserts"],
+  "costForTwo": "$22",
+  "deliveryTime": "46 mins",
+  "isOpen": true,
+  "phone": "+1-555-0126",
+  "menu": [
+    {
+      "name": "Paneer Tikka Masala",
+      "price": 17,
+      "isVeg": true
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 19,
+      "isVeg": false
+    },
+    {
+      "name": "Mutton Rogan Josh",
+      "price": 20,
+      "isVeg": false
+    },
+    {
+      "name": "Fish Curry",
+      "price": 18,
+      "isVeg": false
+    },
+    {
+      "name": "Biryani Special",
+      "price": 16,
+      "isVeg": false
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 12,
+      "isVeg": true
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 11,
+      "isVeg": true
+    },
+    {
+      "name": "Mixed Vegetable Curry",
+      "price": 14,
+      "isVeg": true
+    },
+    {
+      "name": "Raita",
+      "price": 10,
+      "isVeg": true
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 15,
+      "isVeg": true
+    }
+  ]
+}
