@@ -1,0 +1,63 @@
+{
+  "id": "151648",
+  "name": "Mr. Gurung Momo & Chinese Corner",
+  "location": "123 Union St, New Bedford",
+  "rating": 4.3,
+  "cuisines": ["Momos", "Chinese", "Fast Food"],
+  "costForTwo": "$14",
+  "deliveryTime": "42 mins",
+  "isOpen": true,
+  "phone": "+1-555-0125",
+  "menu": [
+    {
+      "name": "Chicken Momos",
+      "price": 15,
+      "isVeg": false
+    },
+    {
+      "name": "Veg Momos",
+      "price": 13,
+      "isVeg": true
+    },
+    {
+      "name": "Chicken Chowmein",
+      "price": 16,
+      "isVeg": false
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 12,
+      "isVeg": true
+    },
+    {
+      "name": "Chicken Manchurian",
+      "price": 18,
+      "isVeg": false
+    },
+    {
+      "name": "Paneer Chili",
+      "price": 17,
+      "isVeg": true
+    },
+    {
+      "name": "Hakka Noodles",
+      "price": 14,
+      "isVeg": true
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 11,
+      "isVeg": true
+    },
+    {
+      "name": "Sweet & Sour Chicken",
+      "price": 19,
+      "isVeg": false
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "price": 20,
+      "isVeg": false
+    }
+  ]
+}
